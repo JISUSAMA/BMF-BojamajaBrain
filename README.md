@@ -28,6 +28,16 @@
 ## 기술 스택
 Unity3D, Leap Motion , 안면 로그인 시스템
 
+__보자마자 브레인 사용자 메뉴얼__
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/31225a69-97b0-4268-93e5-0833df7ec14c">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/61924c26-f13f-4c5c-9410-eca827f3b4f3">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/6587a522-a77a-46af-a501-ce87284bafa4">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/ebdb1c18-f8e7-4b3e-934c-505528335980">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/2ded21d5-823c-4a46-af47-fdb7f52b7cd2">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/1f289940-cdc9-4960-9480-1e7936c691a8">
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/b9a5ff0f-f229-4cb5-803e-e5c3b43b031c">
+
+
 <br>
 
 ## 기여도
@@ -79,31 +89,38 @@ __손게임__ <br>
 
 <img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/e841c1a0-816c-45bd-ada9-fd4e03198c84"><br>
 
-- __보자마자 브레인 영문 제작 기존 프로젝트 영문화 작업& 컨텐츠 제작__
-<br><br>한글을 영문으로 바꾸기 힘든 프로젝트로 인하여 일부 컨텐츠의 코드 수정과 게임 방식이 변경되는 작업을 하였다.
+- __보자마자 브레인 영문 제작 기존 프로젝트 영문화 작업 & 컨텐츠 제작__
+
+한글을 영문으로 바꾸기 힘든 프로젝트로 인하여 일부 컨텐츠의 코드 수정과 <br>게임 방식이 변경되는 작업을 하였다.
 
 
 <br><img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/c285df14-b073-4776-9809-dd2507177801"><br>
 
 
-- __보자마자 브레인 LITE 제작__ 
-Leap 모션의 기능을 제외한 제품 출시, 
+- __보자마자 브레인 LITE 제작__
+
+Leap 모션의 기능을 제외한 미니PC형 제품 출시
+
 - __안면 인식 로그인 스스템 제거/LipMotion 손게임 제거 작업__
 
-
-<br><img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/700f50d9-7396-4f9c-8424-0716f3834c5f"><br>
+<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/700f50d9-7396-4f9c-8424-0716f3834c5f"><br>
 
 
 - __보자마자 브레인 M(Android) 제작__<br>
-<br>모바일 전용 앱으로 가볍게 만들기 위해서 치매예방 체조가 제거된 버전
-<br><img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/1cd0ec02-0f31-47d1-ab00-6a9ba917e973"><br>
+<br>모바일 전용 앱으로 가볍게 만들기 위해서 치매예방 체조가 제거된 버전<br>
+
+<br><img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/d36c2a7d-1d15-4c02-8d48-87103054cb6e"><br>
 
 - __가보르아이 트레이닝 컨텐츠 전체 추가 제작__
-- __전체 컨텐츠 기능(튜토리얼 토글, 휴식영상) 추가 작업__
- 
+
+<br><img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/303e96f2-92cb-4a68-929c-dcc4eda1740c"><br>
+
+- __전체 컨텐츠 기능(튜토리얼 토글, 휴식영상) 추가 작업__<br>
+
+게임 플레이가 어렵다하여 게임의 튜토리얼 기능 ON/OFF 기능을 만들어 사용자 편의기능을 추가 하였다.
 
 
-[보자마자 브레인(BOJAMAJA BRAIN) 판매사이트<br>(https://smartstore.naver.com/gateways/products/7826529818) ](https://smartstore.naver.com/gateways/products/7826529818)
+[보자마자 브레인(BOJAMAJA BRAIN) 판매사이트<br>(https://smartstore.naver.com/gateways/products/7826529818)](https://smartstore.naver.com/gateways/products/7826529818)
 
 
 </div>
