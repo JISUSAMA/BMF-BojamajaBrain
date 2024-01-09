@@ -1,21 +1,21 @@
 <div align='center'>
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/98e79e08-265d-45ac-a148-8ed38d7b2b3c" width="100%" height="100%">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/40270531-815d-4412-a44c-6b9319d7298c" width="100%" height="100%">
 
 ## 프로젝트 소개
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/67d61aa6-931a-4820-9e40-a85e2a4f9d0d">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/706d6e9b-8317-4a0a-907b-65a67d2ae2d3">
 
 ### 보자마자 피트니스 - 보자마자 브레인/라이트/M/ENG
 
 <details>
 <summary>보자마자 브레인 브로슈어 이미지</summary>
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/6a812e86-b1cc-4893-805e-d347de3aef28">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/0451fc37-17d4-4614-97e5-f14edbc4b42c">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/8a6cc983-e38e-4472-890c-75cfad66fc14">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/8d58eb54-5347-4edb-a2d3-3885799bb419">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/7ba06a29-a3c9-47f4-b9ea-f24bdabcb736">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/84a7538a-d1dd-4092-aff1-b2e4c5ca3a89">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/3ad614d6-fda5-47d2-afae-25f9a3a5a4ad">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/8518932d-ab6a-4162-a18d-97d8d03c7bf9">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/1eac818a-d906-4ba3-a3df-3bafe1710099">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/d6e1b422-b1b2-416f-b1a2-6b3c4247bfba">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/84accd61-0e31-4fbd-a81c-c7516032c817">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f3d91247-9776-4d26-a369-ee4bb1861e06">
 
 </details>
 <br>
@@ -29,13 +29,13 @@
 Unity3D, Leap Motion , 안면 로그인 시스템
 
 __보자마자 브레인 사용자 메뉴얼__
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/31225a69-97b0-4268-93e5-0833df7ec14c">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/61924c26-f13f-4c5c-9410-eca827f3b4f3">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/6587a522-a77a-46af-a501-ce87284bafa4">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/ebdb1c18-f8e7-4b3e-934c-505528335980">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/2ded21d5-823c-4a46-af47-fdb7f52b7cd2">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/1f289940-cdc9-4960-9480-1e7936c691a8">
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/b9a5ff0f-f229-4cb5-803e-e5c3b43b031c">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/05760384-3ca0-487d-8127-01ef5db47fbd">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/5da558f2-5eea-42d8-9e16-fff3f39cd0b1">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/5aabf32a-0300-4bc0-81e1-ead2a9a81326">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/a56fb4e0-ec6b-4eae-8de8-55997b238c9c">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f4747049-83f1-4c50-8e20-8878045d2a08">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/914562f4-c9c4-404d-84ec-4651483720ac">
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/9be5c68c-39c0-4139-9825-83603720ad0a">
 
 
 <br>
@@ -47,7 +47,7 @@ __보자마자 브레인 사용자 메뉴얼__
 
 <br>
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/e45e5714-2014-4bb4-92e8-214e1c4461d7"><br>
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/04b0fc8b-57f1-47a5-94c5-8e5905adc8b0"><br>
 
 __뇌훈련__<br>
 
@@ -61,7 +61,7 @@ __뇌훈련__<br>
 
 
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/8bc75e51-35dd-42b9-b2c8-52ead957550d"><br>
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/8227c8f1-7382-4ed6-b944-efbc532b3cce"><br>
 
 __치매예방__ <br>
 
@@ -75,7 +75,7 @@ __치매예방__ <br>
     08. 연속 숫자 계산하기
 <br>
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/3b5e1057-30bc-406a-8e0c-42b19ab6a0ed"><br>
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/28968953-9f32-4d0a-8b80-2ec105548dd9"><br>
 
 __손게임__ <br>
 
@@ -87,14 +87,14 @@ __손게임__ <br>
 
 <br>
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/e841c1a0-816c-45bd-ada9-fd4e03198c84"><br>
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e1a8433c-9cdf-4945-bbec-df4a3fbff8b1"><br>
 
 - __보자마자 브레인 영문 제작 기존 프로젝트 영문화 작업 & 컨텐츠 제작__
 
 한글을 영문으로 바꾸기 힘든 프로젝트로 인하여 일부 컨텐츠의 코드 수정과 <br>게임 방식이 변경되는 작업을 하였다.
 
 
-<br><img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/c285df14-b073-4776-9809-dd2507177801"><br>
+<br><img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/f8ab14d3-22ab-496d-9803-873a5a8c54f5"><br>
 
 
 - __보자마자 브레인 LITE 제작__
@@ -103,17 +103,17 @@ Leap 모션의 기능을 제외한 미니PC형 제품 출시
 
 - __안면 인식 로그인 스스템 제거/LipMotion 손게임 제거 작업__
 
-<img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/700f50d9-7396-4f9c-8424-0716f3834c5f"><br>
+<img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/a144bbad-40e6-4aaa-819b-47cecfa5191c"><br>
 
 
 - __보자마자 브레인 M(Android) 제작__<br>
 <br>모바일 전용 앱으로 가볍게 만들기 위해서 치매예방 체조가 제거된 버전<br>
 
-<br><img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/d36c2a7d-1d15-4c02-8d48-87103054cb6e"><br>
+<br><img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/8a847fa6-8973-4003-849c-f1b528fe645a"><br>
 
 - __가보르아이 트레이닝 컨텐츠 전체 추가 제작__
 
-<br><img src="https://github.com/JISUSAMA/01PortfolioFile/assets/38304918/303e96f2-92cb-4a68-929c-dcc4eda1740c"><br>
+<br><img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/e3bcb219-b2a0-4892-8d6d-829aa5cae865"><br>
 
 - __전체 컨텐츠 기능(튜토리얼 토글, 휴식영상) 추가 작업__<br>
 
