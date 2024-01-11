@@ -6,7 +6,7 @@
 
 <img src="https://github.com/JISUSAMA/JISUSAMA/assets/38304918/706d6e9b-8317-4a0a-907b-65a67d2ae2d3">
 
-### 보자마자 피트니스 - 보자마자 브레인/라이트/M/ENG
+### 보자마자 브레인/라이트/M/ENG
 
 <details>
 <summary>보자마자 브레인 브로슈어 이미지</summary>
